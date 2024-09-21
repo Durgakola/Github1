@@ -1,0 +1,5 @@
+public class person{
+public void play(){
+System.out.println("from playing");
+}
+}
